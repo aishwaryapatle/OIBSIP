@@ -34,7 +34,7 @@ public class AtmInterface {
 					System.out.println("5. Quit");
 					System.out.print("\nChoose an action to be done --> ");
 
-					option = sc.nextInt();
+					choice = sc.nextInt();
 					switch(choice)
 					{
 					case 1: 
