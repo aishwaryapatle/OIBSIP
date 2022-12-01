@@ -1,5 +1,4 @@
 # OIBSIP
-(Virtual Internship)
 
 ### TASK 2
 #### NUMBER GUESSING GAME
