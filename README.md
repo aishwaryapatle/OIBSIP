@@ -1,4 +1,5 @@
 # OIBSIP
+(Virtual Internship)
 
 ### TASK 2
 #### NUMBER GUESSING GAME
@@ -9,9 +10,17 @@ The fun and easy project "Guess the Number" is a short Java project that allows 
 3. The computer then tells if the entered number matches the guesses number or it is higher/lower than the generated number.
 4. The game continues under the user guessing the number.
 YOU can also incorporate further details as:
-• Limiting the number of attempts.
-• Adding more rounds.
-• Displaying score.
-• Giving points based on the number of attempts.
+• Limiting the number of attempts.  
+• Adding more rounds.  
+• Displaying score.  
+• Giving points based on the number of attempts.  
 
-A common game among programmers is the number guessing game. The computer chooses a random number between two numbers in the number guessing game, and the user guesses the correct number. To make a guessing game, we must first construct a programme that generates a random integer between 1 and 100. We may use conditional statements to notify the user if the predicted number is less than, larger than, or equal to the randomly picked number. The game ends after ten attempts, and if the player fails to predict the number, he loses.
+### TASK 3
+#### ATM INTERFACE
+
+We have all come across ATMs in our cities and it is built on Java. This complex project consists of five different classes and is a console-based application. When the system starts the user is prompted with user id and user pin. On entering the details successfully, then ATM functionalities are unlocked. The project allows to perform following operations:
+1. Transactions History
+2. Withdraw
+3. Deposit
+4. Transfer
+5. Quit
